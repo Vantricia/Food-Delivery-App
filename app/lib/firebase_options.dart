@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCTpp_3o9BgW3xEKanxs2A2ZDX1bgkt8ic',
-    appId: '1:323851825393:web:5f1d39babb34759ea53950',
-    messagingSenderId: '323851825393',
-    projectId: 'food-deliv-1',
-    authDomain: 'food-deliv-1.firebaseapp.com',
-    storageBucket: 'food-deliv-1.appspot.com',
-    measurementId: 'G-250PNRN6LD',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
+    projectId: ,
+    authDomain: ,
+    storageBucket: ,
+    measurementId: ,
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDunAtWRDS-WdWN3-eGpXf-z_2JSKgSRhQ',
-    appId: '1:323851825393:android:bafcb6f69cc572dba53950',
-    messagingSenderId: '323851825393',
-    projectId: 'food-deliv-1',
-    storageBucket: 'food-deliv-1.appspot.com',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
+    projectId: ,
+    storageBucket: ,
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCWKjVuHJ8DVP0kxBZ_OvjNJ9gCaumIsSQ',
-    appId: '1:323851825393:ios:2f06bf05ae7acfd5a53950',
-    messagingSenderId: '323851825393',
-    projectId: 'food-deliv-1',
-    storageBucket: 'food-deliv-1.appspot.com',
-    iosBundleId: 'com.example.app',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
+    projectId: ,
+    storageBucket: ,
+    iosBundleId: ,
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCWKjVuHJ8DVP0kxBZ_OvjNJ9gCaumIsSQ',
-    appId: '1:323851825393:ios:2f06bf05ae7acfd5a53950',
-    messagingSenderId: '323851825393',
-    projectId: 'food-deliv-1',
-    storageBucket: 'food-deliv-1.appspot.com',
-    iosBundleId: 'com.example.app',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
+    projectId: ,
+    storageBucket: ,
+    iosBundleId: ,
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCTpp_3o9BgW3xEKanxs2A2ZDX1bgkt8ic',
-    appId: '1:323851825393:web:47ce2cb4f80d9488a53950',
-    messagingSenderId: '323851825393',
-    projectId: 'food-deliv-1',
-    authDomain: 'food-deliv-1.firebaseapp.com',
-    storageBucket: 'food-deliv-1.appspot.com',
-    measurementId: 'G-HBWXVXL88G',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
+    projectId: ,
+    authDomain: ,
+    storageBucket: ,
+    measurementId: ,
   );
 }
