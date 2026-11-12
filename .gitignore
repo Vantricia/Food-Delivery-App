@@ -1,0 +1,7 @@
+# Credentials and local environment files
+**/*service-account*.json
+**/*firebase-adminsdk*.json
+**/food-deliv-1-d1daa57ee225.json
+.env
+.env.*
+!.env.example
