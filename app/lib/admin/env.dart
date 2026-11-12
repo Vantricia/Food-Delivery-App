@@ -1,0 +1,4 @@
+// TODO Implement this library.
+
+const publishableKey = 'pk_test_51PVpc0Fd5dPHDqPbfMtCpRI195SDNTupMxOXZb5yZAX9JicB1PASHifbZvgy9tnNpn4YszobsMfOou885Hs0KLR100BLc7DmNn';
+const secretKey = 'sk_test_51PVpc0Fd5dPHDqPbnTMeylmUk8TjrTVgsvl0oxPxpWMJYsZNL2D5DbPdqF9dd3ms1zXVdg2xLhnQKONuiIs4Kup500AjY3mKeC';
